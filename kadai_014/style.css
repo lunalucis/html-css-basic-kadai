@@ -1,0 +1,54 @@
+html{
+    /* ルートフォントサイズ */
+    font-size: 20px;
+}
+
+body{
+    font-family:"Arial", "Meiryo", sans-serif ;
+    text-align: center;
+}
+
+
+h1{
+    
+  font: size 2em;
+  letter-spacing: 1.2em;
+  text-shadow: 1px 1px 2px gray;
+  border-bottom: solid 3px rgb(115, 115, 114);
+
+
+    /* ここにグーグルフォント */
+    // <uniquifier>: Use a unique and descriptive class name
+
+.josefin-sans-<uniquifier> {
+
+  font-family: "Josefin Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+
+
+}
+
+
+
+}
+.skyblue{
+    color: skyblue;
+}
+.rgb{
+    color: rgb(255, 192, 203);
+}
+
+
+#basic1{
+    font-weight: bold;
+}
+
+#basic2{
+    font-weight: bold;
+}
+
+#basic3{
+    font-weight: bold;
+}
